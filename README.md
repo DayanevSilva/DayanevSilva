@@ -1,10 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=DayanevSilva&color=006bed)
 
 <h1>My name is Dayane Silva</h1>
 
-<h3>Access my README in Portuguese <a href="https://github.com/DayanevSilva/DayanevSilva/blob/main/README.ENG/">here</a></h3>
+<h3>Access my README in Portuguese <a href="https://github.com/DayanevSilva/DayanevSilva/blob/main/README-ptBR.md">here.</a></h3>
 
 <h3>About Me</h3>
 
