@@ -4,7 +4,7 @@
 
 <h1>My name is Dayane Silva</h1>
 
-<h3>Access my README in English <a href="https://github.com/DayanevSilva/DayanevSilva/blob/main/README.ENG/">here</a></h3>
+<h3>Access my README in Portuguese <a href="https://github.com/DayanevSilva/DayanevSilva/blob/main/README.ENG/">here</a></h3>
 
 <h3>About Me</h3>
 
