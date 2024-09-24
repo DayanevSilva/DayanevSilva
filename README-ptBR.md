@@ -3,7 +3,7 @@
 
 <h1>Meu nome é Dayane Silva</h1> 
 
-<h3>Acesse meu README em inglês <a href="https://github.com/DayanevSilva/DayanevSilva/blob/main/README.md">aqui.</a></h3> 
+<h3>Acesse meu README em inglês <a href="https://github.com/DayanevSilva">aqui.</a></h3> 
 
 <h3>Sobre Mim</h3>
 
