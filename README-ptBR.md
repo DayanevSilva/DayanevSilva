@@ -11,7 +11,7 @@
 - 📍 Eu moro em <a class="location" href="https://goo.gl/maps/VVC3UTfXGd6zx2ru7">São Gonçalo do Rio Abaixo - MG</a>
 - 🎓 Formada em **Informática Técnica para Internet** pelo <a href="https://www.fiemg.com.br/senai/unidades/senai-sao-goncalo-do-rio-abaixo-cfp-jose-fernando-coura/">SENAI SGRA</a>.
 - 💼 Atualmente trabalho como **Vendedora** na <a href="https://www.rcellinfor.com.br/">Rcell Infor</a>
-- 🌱   Aprendendo mais sobre **PROGRAMÇÃO**.
+- 🌱   Aprendendo mais sobre **PROGRAMAÇÃO**.
 - 👀 Tenho interesse em **Desenvolvimento de Aplicativos Web** e **Inteligência Artificial**.
 
 <h3>Repositórios</h3> 
